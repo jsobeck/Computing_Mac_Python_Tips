@@ -3,3 +3,5 @@
 - `lipo -info`command: gives information as to 32-bit or 64-bit for libraries  
 
 - HomeBrew directory location: /usr/local/Cellar
+
+- Relevant website: HPC for Macs: http://hpc.sourceforge.net/
