@@ -5,3 +5,10 @@
 - HomeBrew directory location: /usr/local/Cellar
 
 - Relevant website: HPC for Macs: http://hpc.sourceforge.net/
+
+## Mac System Set-Up and Configuration
+- Install Homebrew
+- Install Xcode
+- Install command line tools via the command: sudo xcode-select --install
+  -- These should be located here: /Library/Developer/CommandLineTools
+- Install SVN command line tools (no longer provided by Xcode) via Homebrew with command: brew install svn)
