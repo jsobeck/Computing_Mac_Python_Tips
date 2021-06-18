@@ -12,3 +12,7 @@
 - Install command line tools via the command: sudo xcode-select --install
   -- These should be located here: /Library/Developer/CommandLineTools
 - Install SVN command line tools (no longer provided by Xcode) via Homebrew with command: brew install svn)
+
+
+## Python Useful Packages
+- Tables (e.g., pip install --user tables)
