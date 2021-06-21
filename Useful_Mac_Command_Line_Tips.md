@@ -16,3 +16,5 @@
 
 ## Python Useful Packages
 - Tables (e.g., pip install --user tables)
+- Plotly
+- h5py
