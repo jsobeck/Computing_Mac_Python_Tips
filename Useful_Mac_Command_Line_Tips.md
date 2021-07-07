@@ -3,7 +3,7 @@
 ## Command Line Tips  
 - `file` command: provides information as to 32-bit or 64-bit for executables  
 - `lipo -info` command: gives information as to 32-bit or 64-bit for libraries  
-- 'ulimit -n 9999' command: login as sudo in order to make the read file limit 9999 (and exceed standardly imposed file read limitation)
+- `ulimit -n 9999` command: login as sudo in order to make the read file limit 9999 (and exceed standardly imposed file read limitation)
 
 ## Useful Websites
 - HomeBrew directory location: /usr/local/Cellar
