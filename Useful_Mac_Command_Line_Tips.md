@@ -1,9 +1,11 @@
-## Collection of Useful Command Line and Mac Tips
+### Collection of Useful Mac Information
+
+## Command Line Tips  
 - `file` command: provides information as to 32-bit or 64-bit for executables  
 - `lipo -info`command: gives information as to 32-bit or 64-bit for libraries  
 
+## Useful Websites
 - HomeBrew directory location: /usr/local/Cellar
-
 - Relevant website: HPC for Macs: http://hpc.sourceforge.net/
 
 ## Mac System Set-Up and Configuration
@@ -14,11 +16,11 @@
 - Install SVN command line tools (no longer provided by Xcode) via Homebrew with command: brew install svn)
 
 
-## Python Useful Packages
+## Python Packages
 - Tables (e.g., pip install --user tables)
 - Plotly
 - h5py
-- healpy
+- healpy (conda config --add channels conda-forge; conda install healpy)
 - jupyterlab
 - vaex
 - 
