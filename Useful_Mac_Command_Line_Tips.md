@@ -2,12 +2,19 @@
 
 ## Mac First-Time System Set Up and Configuration
 - Install these programs
+
    -- Chrome, Slack
+   
    -- Xquartz, Aquamacs
+   
    -- Homebrew
+   
    -- Xcode and Command Line Tools (via the command: sudo xcode-select --install; location: /Library/Developer/CommandLineTools
+   
    -- SVN command line tools (no longer provided by Xcode) via Homebrew with command: brew install svn)
+   
    -- Mac Office Suite
+   
    -- Windows Office Suite
 
 ## Command Line Tips  
