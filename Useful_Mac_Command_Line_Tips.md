@@ -1,13 +1,14 @@
 # Collection of Useful Mac Information
 
 ## Mac First-Time System Set Up and Configuration
-- Install Xquartz, Aquamacs, Command Line Tools (Terminal)
-- Install Homebrew
-- Install Xcode
-- Install command line tools via the command: sudo xcode-select --install
-  -- These should be located here: /Library/Developer/CommandLineTools
-- Install SVN command line tools (no longer provided by Xcode) via Homebrew with command: brew install svn)
-
+- Install these programs
+   -- Chrome, Slack
+   -- Xquartz, Aquamacs
+   -- Homebrew
+   -- Xcode and Command Line Tools (via the command: sudo xcode-select --install; location: /Library/Developer/CommandLineTools
+   -- SVN command line tools (no longer provided by Xcode) via Homebrew with command: brew install svn)
+   -- Mac Office Suite
+   -- Windows Office Suite
 
 ## Command Line Tips  
 - `file` command: provides information as to 32-bit or 64-bit for executables  
