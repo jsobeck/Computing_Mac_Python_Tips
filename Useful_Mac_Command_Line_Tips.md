@@ -32,6 +32,6 @@
 - Plotly
 - h5py
 - healpy (conda config --add channels conda-forge; conda install healpy)
-- jupyterlab
+- jupyterlab, volia
 - vaex
 - 
