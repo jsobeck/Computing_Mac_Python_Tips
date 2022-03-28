@@ -9,6 +9,8 @@
    
    -- Homebrew
    
+   -- Anaconda and python
+   
    -- Xcode and Command Line Tools (via the command: sudo xcode-select --install; location: /Library/Developer/CommandLineTools
    
    -- SVN command line tools (no longer provided by Xcode) via Homebrew with command: brew install svn)
