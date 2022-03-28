@@ -16,6 +16,8 @@
    -- Mac Office Suite
    
    -- Windows Office Suite
+- Alter Shell
+  -- For bash shell: chsh -s /bin/bash
 
 ## Command Line Tips  
 - `file` command: provides information as to 32-bit or 64-bit for executables  
