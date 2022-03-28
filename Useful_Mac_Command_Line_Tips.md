@@ -27,6 +27,7 @@
 - Relevant website: HPC for Macs: http://hpc.sourceforge.net/
 
 ## Python Packages
+- astropy, scipy
 - Tables (e.g., pip install --user tables)
 - Plotly
 - h5py
