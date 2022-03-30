@@ -32,11 +32,10 @@
 
 ## Python Packages
 - astropy, scipy
-- jupyter-lab, ipywidgets
+- jupyter-lab, ipywidgets, voila
 - Tables (e.g., pip install --user tables)
 - Plotly
 - h5py
 - healpy (conda config --add channels conda-forge; conda install healpy)
-- jupyterlab, volia
 - vaex
 - 
