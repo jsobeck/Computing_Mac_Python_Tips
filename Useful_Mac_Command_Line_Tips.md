@@ -11,7 +11,7 @@
    
    -- Anaconda/mamba and python
    
-   -- Xcode and Command Line Tools (via the command: sudo xcode-select --install; location: /Library/Developer/CommandLineTools
+   -- Xcode and Command Line Tools (via the command: `sudo xcode-select --install`; location: /Library/Developer/CommandLineTools
    
    -- SVN command line tools (no longer provided by Xcode; install via Homebrew with command: brew install svn)
    
