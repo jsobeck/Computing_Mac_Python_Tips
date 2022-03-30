@@ -18,7 +18,7 @@
    -- Mac Office Suite
    
    -- Windows Office Suite
-- Alter Shell
+- Alter shell (zsh vs. bash)
   -- For bash shell: chsh -s /bin/bash
 
 ## Command Line Tips  
