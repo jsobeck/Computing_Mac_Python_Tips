@@ -9,7 +9,7 @@
    
    -- Homebrew
    
-   -- Anaconda and python
+   -- Anaconda/mamba and python
    
    -- Xcode and Command Line Tools (via the command: sudo xcode-select --install; location: /Library/Developer/CommandLineTools
    
