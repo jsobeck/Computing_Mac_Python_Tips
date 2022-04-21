@@ -18,6 +18,11 @@
    -- Mac Office Suite
    
    -- Windows Office Suite
+   
+   -- Java
+   
+   -- TopCat (astronomy-related software)
+   
 - Alter shell (zsh vs. bash)
   -- For bash shell: chsh -s /bin/bash
 
