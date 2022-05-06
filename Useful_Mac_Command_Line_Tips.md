@@ -36,11 +36,11 @@
 - Relevant website: HPC for Macs: http://hpc.sourceforge.net/
 
 ## Python Packages
-- astropy, scipy
-- jupyter-lab, ipywidgets, voila
+- numpoy, astropy, scipy
+- Jupyter: jupyter-lab, ipywidgets, voila
 - Tables (e.g., pip install --user tables)
-- Plotly
-- h5py
+- Plotting/Visualization Programs: Bokeh, Plotly, Seaborn
+- Data Ingestion/Storage: h5py
 - healpy (conda config --add channels conda-forge; conda install healpy)
 - vaex
 - 
