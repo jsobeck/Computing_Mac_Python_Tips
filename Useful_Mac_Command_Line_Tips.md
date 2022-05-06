@@ -32,11 +32,14 @@
 - `ulimit -n 9999` command: login as sudo in order to make the read file limit 9999 (and exceed standardly imposed file read limitation)
 
 ## Useful Websites
+- HPC for Macs: http://hpc.sourceforge.net/
+
+## System Information
 - HomeBrew directory location: /usr/local/Cellar
-- Relevant website: HPC for Macs: http://hpc.sourceforge.net/
 
 ## Python Packages
-- numpoy, astropy, scipy
+- numpy, scipy
+- Astropy (specutils)
 - Jupyter: jupyter-lab, ipywidgets, voila
 - Tables (e.g., pip install --user tables)
 - Plotting/Visualization Programs: Bokeh, Plotly, Seaborn
