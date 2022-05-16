@@ -23,8 +23,11 @@
    
    -- TopCat (astronomy-related software)
    
+   -- MacTex (https://tug.org/mactex/mactex-download.html)
+   
 - Alter shell (zsh vs. bash)
-  -- For bash shell: chsh -s /bin/bash
+
+  -- To change to bash shell: chsh -s /bin/bash
 
 ## Command Line Tips  
 - `file` command: provides information as to 32-bit or 64-bit for executables  
