@@ -51,3 +51,10 @@
 - vaex
 - pytest
 - pyarrow, apache spark
+
+## Astronomy-Related Software
+- ds9
+- QFitsView
+- CFITSIO
+- 
+
