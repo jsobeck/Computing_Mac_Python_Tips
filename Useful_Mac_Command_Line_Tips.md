@@ -7,7 +7,7 @@
    
    -- Xquartz, Aquamacs
    
-   -- Homebrew
+   -- Homebrew (Mac package manager; necessary for the installation of basic utilities such as svn)
    
    -- Anaconda/mamba and python
    
@@ -20,8 +20,6 @@
    -- Windows Office Suite
    
    -- Java
-   
-   -- TopCat (astronomy-related software)
    
    -- MacTex (https://tug.org/mactex/mactex-download.html)
    
@@ -56,5 +54,5 @@
 - ds9
 - QFitsView
 - CFITSIO
-- 
+- TopCat
 
