@@ -36,7 +36,7 @@
 - HPC for Macs: http://hpc.sourceforge.net/
 
 ## System Information
-- HomeBrew directory location: /usr/local/Cellar
+- HomeBrew directory location: /opt/homebrew (old location: /usr/local/Cellar)
 
 ## Python Packages
 - numpy, scipy
