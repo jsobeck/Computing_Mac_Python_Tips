@@ -14,10 +14,10 @@
 - Mac Office Suite
 - Windows Office Suite
 - Java
-- MacTex (https://tug.org/mactex/mactex-download.html)
+- (MacTex)[https://tug.org/mactex/mactex-download.html]
   
 ### Astronomy-Related Software
-- [ds9][https://sites.google.com/cfa.harvard.edu/saoimageds9]
+- (ds9)[https://sites.google.com/cfa.harvard.edu/saoimageds9]
 - QFitsView
 - CFITSIO
 - TopCat
