@@ -6,7 +6,7 @@
 - Xquartz, Aquamacs
 - Homebrew Mac Package Manager
    - Rely on for installation of basic utilities such as sftp, wget, svn (and associated command line tools),...
-   - sample command: `brew install svn'
+   - sample command: `brew install svn`
    - HomeBrew directory location: /opt/homebrew (formerly: /usr/local/Cellar)
 - Xcode and Command Line Tools
   - Install via the command: `sudo xcode-select --install`
@@ -14,10 +14,10 @@
 - Mac Office Suite
 - Windows Office Suite
 - Java
-- (MacTex)[https://tug.org/mactex/mactex-download.html]
+- [MacTex](https://tug.org/mactex/mactex-download.html)
   
 ### Astronomy-Related Software
-- (ds9)[https://sites.google.com/cfa.harvard.edu/saoimageds9]
+- [ds9](https://sites.google.com/cfa.harvard.edu/saoimageds9)
 - QFitsView
 - CFITSIO
 - TopCat
