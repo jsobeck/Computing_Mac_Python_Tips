@@ -1,31 +1,28 @@
 # Collection of Useful Mac Information
 
 ## Mac First-Time System Set Up and Configuration
-- Install these programs
-
-   - Chrome, Slack
+### Essential Software/Code 
+- Chrome, Slack
+- Xquartz, Aquamacs
+- Homebrew Mac Package Manager
+   - Rely on for installation of basic utilities such as sftp, wget, svn (and associated command line tools),...
+   - sample command: `brew install svn'
+   - HomeBrew directory location: /opt/homebrew (formerly: /usr/local/Cellar)
+- Xcode and Command Line Tools (via the command: `sudo xcode-select --install`; location: /Library/Developer/CommandLineTools
+- Mac Office Suite
+- Windows Office Suite
+- Java
+- MacTex (https://tug.org/mactex/mactex-download.html)
+  
+### Astronomy-Related Software
+- ds9
+- QFitsView
+- CFITSIO
+- TopCat
    
-   - Xquartz, Aquamacs
-   
-   - Homebrew (Mac Package Manager; employ for installation of basic utilities such as sftp, wget, svn and associated command line tools,...)
-     - sample command: `brew install svn'
-   
-   -- Anaconda/mamba and python
-   
-   -- Xcode and Command Line Tools (via the command: `sudo xcode-select --install`; location: /Library/Developer/CommandLineTools
-   
-   
-   -- Mac Office Suite
-   
-   -- Windows Office Suite
-   
-   -- Java
-   
-   -- MacTex (https://tug.org/mactex/mactex-download.html)
-   
-- Alter shell (zsh vs. bash)
-
-  -- To change to bash shell: `chsh -s /bin/bash`
+### Shell Modification 
+- Default Mac shell is z-shell (zsh; with shell specifications .zprofile)
+- To change to bash shell: `chsh -s /bin/bash`
 
 ## Command Line Tips  
 - `file` command: provides information as to 32-bit or 64-bit for executables  
@@ -35,24 +32,16 @@
 ## Useful Websites
 - HPC for Macs: http://hpc.sourceforge.net/
 
-## System Information
-- HomeBrew directory location: /opt/homebrew (old location: /usr/local/Cellar)
-
-## Python Packages
-- numpy, scipy
-- Astropy (specutils)
-- Jupyter: jupyter-lab, ipywidgets, voila
-- Tables (e.g., pip install --user tables)
-- Plotting/Visualization Programs: Bokeh, Plotly, Seaborn
-- Data Ingestion/Storage: h5py
-- healpy (conda config --add channels conda-forge; conda install healpy)
-- vaex
-- pytest
-- pyarrow, apache spark
-
-## Astronomy-Related Software
-- ds9
-- QFitsView
-- CFITSIO
-- TopCat
+## Python and Python Packages
+- Python 
+   - numpy, scipy
+   - Astropy (specutils)
+   - Jupyter: jupyter-lab, ipywidgets, voila
+   - Tables (e.g., pip install --user tables)
+   - Plotting/Visualization Programs: Bokeh, Plotly, Seaborn
+   - Data Ingestion/Storage: h5py
+   - healpy (conda config --add channels conda-forge; conda install healpy)
+   - vaex
+   - pytest
+   - pyarrow, apache spark
 
