@@ -6,10 +6,11 @@
 - Xquartz, Aquamacs
 - Homebrew Mac Package Manager
    - Rely on for installation of basic utilities such as sftp, wget, svn (and associated command line tools),...
-   - sample command: `brew install svn`
+   - Installation command: `homebrew % /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+   - Homebew package installation (sample) command: `brew install svn`
    - HomeBrew directory location: /opt/homebrew (formerly: /usr/local/Cellar)
 - Xcode and Command Line Tools
-  - Install via the command: `sudo xcode-select --install`
+  - Installation command: `sudo xcode-select --install`
   - Xcode directory location: /Library/Developer/CommandLineTools
 - Mac Office Suite
 - Windows Office Suite
