@@ -2,8 +2,10 @@
 
 ## Mac First-Time System Set Up and Configuration
 ### Essential Software/Code 
-- Chrome, Slack
-- Xquartz, Aquamacs
+- Chrome
+- Slack
+- Xquartz
+- Aquamacs
 - Homebrew Mac Package Manager
    - Rely on for installation of basic utilities such as sftp, wget, svn (and associated command line tools),...
    - Installation command: `homebrew % /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
@@ -19,9 +21,9 @@
   
 ### Astronomy-Related Software
 - [ds9](https://sites.google.com/cfa.harvard.edu/saoimageds9)
-- QFitsView
+- [QFitsView](https://www.mpe.mpg.de/~ott/QFitsView/)
+- [TopCat](https://www.star.bris.ac.uk/~mbt/topcat/)
 - CFITSIO
-- TopCat
    
 ### Shell Modification 
 - Default Mac shell is z-shell (zsh; with shell specifications .zprofile)
