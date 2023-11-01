@@ -25,7 +25,7 @@
    
 - Alter shell (zsh vs. bash)
 
-  -- To change to bash shell: chsh -s /bin/bash
+  -- To change to bash shell: `chsh -s /bin/bash`
 
 ## Command Line Tips  
 - `file` command: provides information as to 32-bit or 64-bit for executables  
