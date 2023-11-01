@@ -3,17 +3,17 @@
 ## Mac First-Time System Set Up and Configuration
 - Install these programs
 
-   -- Chrome, Slack
+   - Chrome, Slack
    
-   -- Xquartz, Aquamacs
+   - Xquartz, Aquamacs
    
-   -- Homebrew (Mac package manager; employ for installation of basic utilities such as sftp, wget)
+   - Homebrew (Mac Package Manager; employ for installation of basic utilities such as sftp, wget, svn and associated command line tools,...)
+     - sample command: `brew install svn'
    
    -- Anaconda/mamba and python
    
    -- Xcode and Command Line Tools (via the command: `sudo xcode-select --install`; location: /Library/Developer/CommandLineTools
    
-   -- SVN command line tools (no longer provided by Xcode; install via Homebrew with command: brew install svn)
    
    -- Mac Office Suite
    
