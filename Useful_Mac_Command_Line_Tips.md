@@ -7,7 +7,7 @@
    
    -- Xquartz, Aquamacs
    
-   -- Homebrew (Mac package manager; necessary for the installation of basic utilities such as sftp)
+   -- Homebrew (Mac package manager; employ for installation of basic utilities such as sftp, wget)
    
    -- Anaconda/mamba and python
    
