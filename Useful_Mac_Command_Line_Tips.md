@@ -38,17 +38,22 @@
 - HPC for Macs: http://hpc.sourceforge.net/
 
 ## Python and Python Packages
-- Python 
-   - numpy, scipy
-   - Astropy (specutils)
-   - Jupyter: jupyter-lab, ipywidgets, voila
-   - Tables (e.g., pip install --user tables)
-   - Plotting/Visualization Programs: Bokeh, Plotly, Seaborn
-   - Data Ingestion/Storage: h5py
-   - healpy (conda config --add channels conda-forge; conda install healpy)
-   - vaex
-   - pytest
-   - pyarrow, apache spark
+- Python (current version 3.12)
+- Numpy
+- Scipy
+- Astropy (specutils)
+- Pandas
+- Jupyter
+  - jupyter-lab (conda installation command: `conda install -c conda-forge jupyterlab`)
+  - ipywidgets
+  - voila
+- Tables (e.g., pip install --user tables)
+- Plotting/Visualization Programs: Bokeh, Plotly, Seaborn
+- Data Ingestion/Storage: h5py, asdf
+- healpy (conda config --add channels conda-forge; conda install healpy)
+- vaex
+- pytest
+- pyarrow, apache spark
      
 ## The Cloud
 
