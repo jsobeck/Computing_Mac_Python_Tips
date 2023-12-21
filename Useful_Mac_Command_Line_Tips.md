@@ -54,6 +54,7 @@
 - vaex
 - pytest
 - pyarrow, apache spark
+- pdflatex, pandoc
      
 ## The Cloud
 
