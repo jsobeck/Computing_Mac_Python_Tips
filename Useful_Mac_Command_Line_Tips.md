@@ -55,6 +55,9 @@
 - pytest
 - pyarrow, apache spark
 - pdflatex, pandoc
+
+## Command Line Interface (CLI) tools
+- GitHub CLI (via homebrew: `brew install gh`)
      
 ## The Cloud
 
