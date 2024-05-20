@@ -20,6 +20,7 @@
 - Java
 - [MacTex](https://tug.org/mactex/mactex-download.html)
 - Pandoc
+  - Example code sequence for conversion of Microsft Word document to markdown: `pandoc -f docx -t markdown foo.docx -o foo.markdown` 
   
 ### Astronomy-Related Software
 - [ds9](https://sites.google.com/cfa.harvard.edu/saoimageds9)
