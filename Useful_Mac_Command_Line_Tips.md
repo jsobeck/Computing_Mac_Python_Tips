@@ -11,6 +11,7 @@
    - Installation command: `homebrew % /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
    - Homebew package installation (sample) command: `brew install svn`
    - HomeBrew directory location: /opt/homebrew (formerly: /usr/local/Cellar)
+   - Update Homebrew and Upgrade Formulae/Casks with single command line sequence: `brew update && brew upgrade && brew upgrade --cask && brew cleanup` 
 - Xcode and Command Line Tools
   - Installation command: `sudo xcode-select --install`
   - Xcode directory location: /Library/Developer/CommandLineTools
@@ -18,6 +19,7 @@
 - Windows Office Suite
 - Java
 - [MacTex](https://tug.org/mactex/mactex-download.html)
+- Pandoc
   
 ### Astronomy-Related Software
 - [ds9](https://sites.google.com/cfa.harvard.edu/saoimageds9)
