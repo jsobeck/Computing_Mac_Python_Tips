@@ -46,10 +46,6 @@
 - Scipy
 - Astropy (specutils)
 - Pandas
-- Jupyter
-  - jupyter-lab (conda installation command: `conda install -c conda-forge jupyterlab`)
-  - ipywidgets
-  - voila
 - Tables (e.g., pip install --user tables)
 - Plotting/Visualization Programs: Bokeh, Plotly, Seaborn
 - Data Ingestion/Storage: h5py, asdf
@@ -64,10 +60,10 @@
 
 ## Jupyter  
 - ipywidgets
-- Jupyter-lab
-  - for collaboration tools, install the extension `jupyter_collaboration' (https://github.com/jupyterlab/jupyter-collaboration)
+- Jupyter-lab (conda installation command: `conda install -c conda-forge jupyterlab`)
+  - for collaboration tools, install the extension `jupyter_collaboration` (https://github.com/jupyterlab/jupyter-collaboration)
 - Collobrative platforms/tools:
-   - voila
+   - voila (https://github.com/voila-dashboards/voila)
    - Google Colab
    - Jupyter-Hub
      
