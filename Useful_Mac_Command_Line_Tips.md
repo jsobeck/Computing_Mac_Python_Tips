@@ -62,10 +62,11 @@
 - ipywidgets
 - Jupyter-lab (conda installation command: `conda install -c conda-forge jupyterlab`)
   - for collaboration tools, install the extension `jupyter_collaboration` (https://github.com/jupyterlab/jupyter-collaboration)
-- Collobrative platforms/tools:
-   - voila (https://github.com/voila-dashboards/voila)
-   - Google Colab
-   - Jupyter-Hub
+- Collobrative platforms and notebook interactive tools:
+   - voila (https://github.com/voila-dashboards/voila; https://voila.readthedocs.io/en/stable/)
+   - Google Colab 
+   - Jupyter-Hub (https://jupyterhub.readthedocs.io/en/stable/)
+   - Binder (https://mybinder.org/)
      
 ## The Cloud
 
