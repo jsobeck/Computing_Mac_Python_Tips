@@ -59,8 +59,17 @@
 - pyarrow, apache spark
 - pdflatex, pandoc
 
-## Command Line Interface (CLI) tools
+## GitHub
 - GitHub CLI (via homebrew: `brew install gh`)
+
+## Jupyter  
+- ipywidgets
+- Jupyter-lab
+  - for collaboration tools, install the extension `jupyter_collaboration' (https://github.com/jupyterlab/jupyter-collaboration)
+- Collobrative platforms/tools:
+   - voila
+   - Google Colab
+   - Jupyter-Hub
      
 ## The Cloud
 
