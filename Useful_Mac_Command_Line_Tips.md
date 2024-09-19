@@ -47,13 +47,18 @@
 - Astropy (specutils)
 - Pandas
 - Tables (e.g., pip install --user tables)
-- Plotting/Visualization Programs: Bokeh, Plotly, Seaborn
-- Data Ingestion/Storage: h5py, asdf
+- File Ingestion/Storage: h5py, asdf
 - healpy (conda config --add channels conda-forge; conda install healpy)
 - vaex
 - pytest
 - pyarrow, apache spark
 - pdflatex, pandoc
+
+## Visualziation/Plotting Tools
+- Plotly
+  - Kaliedo (helper application; static image generation; https://github.com/plotly/Kaleido)
+- Seaborn
+- Bokeh
 
 ## GitHub
 - GitHub CLI (via homebrew: `brew install gh`)
