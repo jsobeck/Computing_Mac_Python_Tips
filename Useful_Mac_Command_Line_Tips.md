@@ -53,6 +53,7 @@
 - pytest
 - pyarrow, apache spark
 - pdflatex, pandoc
+- pre-commit
 
 ## Visualziation/Plotting Tools
 - Plotly
