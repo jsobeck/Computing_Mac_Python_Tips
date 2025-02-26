@@ -63,6 +63,9 @@
 
 ## GitHub
 - GitHub CLI (via homebrew: `brew install gh`)
+- git lfs
+  - git lfs install
+  - it lfs install --system (as root) 
 
 ## Jupyter  
 - ipywidgets
@@ -75,4 +78,7 @@
    - Binder (https://mybinder.org/)
      
 ## The Cloud
+- AWS CLI
+  
+## 
 
