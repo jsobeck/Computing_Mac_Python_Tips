@@ -54,6 +54,7 @@
 - pyarrow, apache spark
 - pdflatex, pandoc
 - pre-commit
+  - pre-commit run --all-files; pre-commit run --files YOUR_FILENAME
 
 ## Visualziation/Plotting Tools
 - Plotly
